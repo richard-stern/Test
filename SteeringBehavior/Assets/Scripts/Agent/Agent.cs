@@ -17,8 +17,11 @@ public class Agent : MonoBehaviour
 	void Awake()
 	{
 		m_RigidBody = GetComponent<Rigidbody>();
+        Debug.Log("weeeeeeee");
 	}
 	
+    //This is a note that Ben wrote.
+
 	//----------------------------------------------------------------------
 	// Update is called once per frame
 	//----------------------------------------------------------------------
