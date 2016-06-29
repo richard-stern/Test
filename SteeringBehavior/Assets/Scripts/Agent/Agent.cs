@@ -7,7 +7,7 @@ using System.Collections.Generic;
 public class Agent : MonoBehaviour
 {
 	private Rigidbody m_RigidBody = null;
-	private float m_fMaxSpeed = 7.0f;
+	private float m_fMaxSpeed = 44.0f;
 
 	List<BehaviorBase> m_lBehaviorList = new List<BehaviorBase>();
 
