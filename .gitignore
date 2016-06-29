@@ -3,3 +3,6 @@
 /SteeringBehavior/Assembly-CSharp.csproj
 /SteeringBehavior/TowerDefence.CSharp.csproj
 /SteeringBehavior/TowerDefence.sln
+/SteeringBehavior/.vs/SteeringBehavior/v14/*.suo
+/SteeringBehavior/*.csproj
+/SteeringBehavior/*.sln
